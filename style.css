@@ -1,0 +1,19 @@
+.button {
+  width: 150px;
+  height: 45px;
+  border-radius: 10px;
+  color: green;
+  border-color: green;
+  margin-bottom: 25px;
+  font-weight: bolder;
+}
+
+.new_color {
+  color: #cc5314;
+  font-size: large;
+}
+
+.background_red {
+  background: pink;
+  font-size: large;
+}
